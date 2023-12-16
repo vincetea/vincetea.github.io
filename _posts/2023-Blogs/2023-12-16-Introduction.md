@@ -1,6 +1,7 @@
 ---
 title: "Hello, world!"
-date: 2023-12-16 16:03 +0000
+date: 2023-12-16 16:05:00 -0600
+last_modified_at: 2023-12-16 17:07:16 -0600
 categories: [Year 2023, Blogging]
 tags: [Personal]
 image: 
@@ -16,7 +17,7 @@ I am currently majoring in Computer Science and started programming in 2020. Not
 ## What Is This Website?
 This website was created with the sole purpose of writing my thoughts or random topics that I'm currently interested in. Kinda like an exchange diary except I'm the only one writing in it. A solo exchange diary. I'll be mainly focusing on personal reviews of video games, mostly JRPGs, and explaining tidbits on video game code and their development. Maybe I'll post some art and tell a little about it if I'm feeling confident.
 
-## Background of This website
+## Background of This Website
 During the holidays when I'm not drowning in college work, I try to work on projects that utilizes my skill as a programmer or help develop those skills. This website right here is one of those projects. The more interesting posts will mosty likely be posted during those holidays. 
 
 During this year, I finished a lot of video games and I wanted a way to catalog what games I finished, how many hours I spent on it, and what my overall thoughts of the game were. At first, I created a spreadsheet but it wasn't very appealing and I wanted to share my thoughts with others. Using my experience in Web App Development class, I decided to use what I learned and create a website that fulfills that idea. I kinda wish I created this website at the beginning of the year because I finished a lot of my backlog of games throughout this year. I would like to post my thoughts and experiences on those games that were still fresh on my mind when I first finished them. 
