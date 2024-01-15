@@ -29,3 +29,5 @@ _Some of the games I finished in 2023_
 Thanks for reading through this post. I'm not the best writer and this is something I don't have a lot of experience with. In fact, the last time I wrote something similar was my essay 2 years ago in my English course. I have a couple of topics I have in mind that I want to post by the end of 2023. Topics like decompiling Unity games and a JRPG review which I am halfway through so look forward to them in the future. Alright, see ya. 
 
 ![Desktop View](/pictures/2023-Pictures/Intro-Pics/The Boy.png){: width="243" height="146" }
+
+{% include comment.html %}
