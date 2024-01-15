@@ -11,7 +11,7 @@ Howdy! Name's Vincent. I post stuff that I'm currently interested in. It's mostl
 <details>
     <summary>Pic of Me</summary> 
 Nice pic. Right?
-     <img src="\pictures\About-Page\gameboy-horror.png">
+     <img src="\pictures\About-Page\gameboyhorror.png">
 
 </details>
 
