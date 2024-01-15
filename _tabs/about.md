@@ -10,7 +10,7 @@ Howdy! Name's Vincent. I post stuff that I'm currently interested in. It's mostl
 
 <details>
     <summary>Pic of Me</summary>
-    Howdy! 
+    Epic 
      <img src="/pictures/About-Page/gameboyhorror.png" alt="Look it's me!" />
 
 </details>
